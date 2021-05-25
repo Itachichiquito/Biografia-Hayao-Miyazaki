@@ -1,0 +1,48 @@
+body {
+	background-image: url(https://p.favim.com/orig/2018/08/19/forest-japan-mononoke-Favim.com-6165590.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: white;
+}
+
+#section-titulo {
+	display: flex;
+	justify-content: center;
+}
+
+#titulo {
+    width: auto;
+    background-color: rgba( 0, 0, 0, 0.65);
+	font-size: 50px;	
+}
+
+#section-imagen {
+	display: flex;
+	justify-content: center;
+}
+
+#imagen {
+	width: 300px;
+	border: 5px solid black;
+}
+
+#fechas {
+	width: 500px;
+	margin: 0 auto;
+	line-height: 25px; 
+    background-color: rgba( 0, 0, 0, 0.5);
+}
+
+#biografia {
+	font-size: 20px;
+	width: 600px;
+	margin: 0 auto; 
+	text-align: justify;
+    background-color: rgba( 0, 0, 0, 0.5);
+}
+
+.parrafo {
+	margin: 15px;
+}
+
+
